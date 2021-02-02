@@ -52,6 +52,7 @@ h1{
 
 .pokemon .info{
   margin-top: 20px;
+  font-weight: 700;
 }
 
 .pokemon .info .number{
